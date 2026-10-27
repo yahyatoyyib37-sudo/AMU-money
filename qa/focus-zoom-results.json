@@ -1,0 +1,5 @@
+{
+  "keyboard_focus_after_clear_hide_undo": "passed",
+  "simulated_pinch_zoom_200_percent_keyboard": "passed",
+  "note": "CDP page-scale simulation; not a physical device or desktop browser zoom test."
+}

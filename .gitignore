@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+qa/*.png
+qa/test-backup.json

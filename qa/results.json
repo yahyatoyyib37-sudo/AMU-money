@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Combined search, filters, quick tags, sorting, chip removal, reload and reset",
+    "result": "passed"
+  },
+  {
+    "name": "Card/table layouts, column selection and layout persistence",
+    "result": "passed"
+  },
+  {
+    "name": "Bookmarks, unique three-way comparison, replacement, reload and clear/undo",
+    "result": "passed"
+  },
+  {
+    "name": "Exact multilingual/entity notes, autosave, history restore, roadmap and resume",
+    "result": "passed"
+  },
+  {
+    "name": "Checklist, vault exact text, delete/undo, widget hide/undo/reorder and persistence",
+    "result": "passed"
+  },
+  {
+    "name": "Student presets combined with persisted schedule matching",
+    "result": "passed"
+  },
+  {
+    "name": "All five themes, application motion off, OS reduced motion and no idle loops",
+    "result": "passed"
+  },
+  {
+    "name": "Dialog focus trap/restore, help, palette, shortcuts, history and deep links",
+    "result": "passed"
+  },
+  {
+    "name": "Actual export download, import preview/merge/conflicts/recovery, invalid imports and v1 compatibility",
+    "result": "passed"
+  },
+  {
+    "name": "Two tabs: live sync, pending note drafts, conflict history and concurrent bookmarks",
+    "result": "passed"
+  },
+  {
+    "name": "Corrupt legacy data retained; denied/quota storage stays usable and exportable",
+    "result": "passed"
+  },
+  {
+    "name": "Seven pages and plan dialog at 320/390/768/1024/1440; 200% text reflow",
+    "result": "passed"
+  },
+  {
+    "name": "Simulated touch: hold, move/scroll/pointercancel, text selection surface, no theme double-tap, rail swipe",
+    "result": "passed"
+  },
+  {
+    "name": "Automated axe WCAG A/AA checks across seven pages",
+    "result": "passed"
+  },
+  {
+    "name": "Legacy migration, malformed journal, dotted multilingual vault text and network-disabled HTML runtime",
+    "result": "passed"
+  },
+  {
+    "name": "Mobile axe scans: five themes, plan/history dialogs, help and palette stacking",
+    "result": "passed"
+  },
+  {
+    "name": "No uncaught browser JavaScript errors",
+    "result": "passed"
+  }
+]
